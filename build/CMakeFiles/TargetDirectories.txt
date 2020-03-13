@@ -1,0 +1,4 @@
+/home/jim/INO/IIIrd Year/Pressure_Coefficient_Of_Cosmic_Rays/icalanalysis/build/CMakeFiles/edit_cache.dir
+/home/jim/INO/IIIrd Year/Pressure_Coefficient_Of_Cosmic_Rays/icalanalysis/build/CMakeFiles/rebuild_cache.dir
+/home/jim/INO/IIIrd Year/Pressure_Coefficient_Of_Cosmic_Rays/icalanalysis/build/CMakeFiles/icalanalysis.dir
+/home/jim/INO/IIIrd Year/Pressure_Coefficient_Of_Cosmic_Rays/icalanalysis/build/CMakeFiles/test.dir
